@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/habibsahn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="habibsahn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/habib-sahin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="habib-sahin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/habib-şahin-906ba41b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="habib-şahin" height="30" width="40" /></a>
 <a href="https://instagram.com/habibsahn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="habibsahn" height="30" width="40" /></a>
 
 
