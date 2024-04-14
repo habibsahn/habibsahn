@@ -3,7 +3,7 @@
 
 - 📝 Blog Yazılarım [habibsahn.com.tr](https://habibsahn.com.tr)
 
-- 📫 İletişim için **itsme@habibsahn.com**
+- 📫 İletişim için **itsme@habibsahn.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
