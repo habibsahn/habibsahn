@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋 Ben Habib</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 📝 Blog Yazılarım [habibsahn.com](https://habibsahn.com)
+- 📝 Blog Yazılarım [habibsahn.com.tr](https://habibsahn.com.tr)
 
 - 📫 İletişim için **itsme@habibsahn.com**
 
